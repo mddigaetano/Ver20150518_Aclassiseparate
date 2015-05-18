@@ -7,13 +7,13 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=Cygwin-Windows
-CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=ver20150518_aclassiseparate
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/ver20150518_aclassiseparate
-CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=ver20150518aclassiseparate.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/ver20150518aclassiseparate.tar
+CND_PLATFORM_Debug=GNU-Linux-x86
+CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
+CND_ARTIFACT_NAME_Debug=provolone
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/provolone
+CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
+CND_PACKAGE_NAME_Debug=provolone.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/provolone.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
